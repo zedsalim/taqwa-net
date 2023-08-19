@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  font-size: 25px;
+  font-size: 18px;
   margin: 0;
   padding: 0;
 }
@@ -14,7 +14,7 @@ header {
 
 h1 {
   margin: 0;
-  font-size: 45px;
+  font-size: 30px;
   text-align: center;
 }
 
@@ -32,7 +32,8 @@ table {
   width: 100%;
   text-align: center;
 }
-th, td {
+th,
+td {
   border: 1px solid #dddddd;
   text-align: center;
   padding: 8px;
@@ -51,5 +52,5 @@ th {
 }
 
 .quran {
-  font-size: 27px;
+  font-size: 19px;
 }

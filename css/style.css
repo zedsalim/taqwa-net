@@ -66,3 +66,13 @@ a:hover {
 .quran {
   font-size: 19px;
 }
+
+h2 .h2_links {
+  color: #0d6efd;
+  border-bottom: 2px dotted #0d6efd;
+}
+
+h2 .h2_links:hover {
+  color: #0d6efd;
+  border-bottom-color: transparent;
+}
